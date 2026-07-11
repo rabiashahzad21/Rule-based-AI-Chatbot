@@ -57,10 +57,6 @@ SmartAssist/
 - Responsive Web Design
 - Basic AI Chatbot Concepts
 
-## 📸 Screenshot
-
-_Add a screenshot of the chatbot interface here._
-
 ## 👩‍💻 Author
 
 **Rabia Shahzad**
